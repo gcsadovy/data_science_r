@@ -1,0 +1,2 @@
+structure(list(a = 1:4, b = c(TRUE, TRUE, FALSE, TRUE)), .Names = c("a", 
+"b"), row.names = c(NA, -4L), class = "data.frame")
